@@ -133,4 +133,5 @@ function wp_popups_plugin_admin_options(){
     <?php submit_button(); ?>
     </form>
 
-<?php } ?>
+<?php }
+
